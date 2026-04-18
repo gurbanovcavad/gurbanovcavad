@@ -19,6 +19,7 @@ Hi, I'm Javad Gurbanov
 </a>
 <a href="https://codeforces.com/profile/gurbanovcavad" target="_blank">
 <img alt="codeforces" src="./assets/codeforces.png" height="40" />
+</a>
 <a href="https://leetcode.com/u/gurbanovcavad/" target="_blank">
 <img alt="leetcode" src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
