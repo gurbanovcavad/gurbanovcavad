@@ -34,11 +34,3 @@ Hi, I'm Javad Gurbanov
 </p>
 
 ---
-
-### Streak Stats:
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=gurbanovcavad&theme=tokyonight&hide_border=true"/>
-</p>
-
----
